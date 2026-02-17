@@ -43,8 +43,8 @@ What's your favorite color? :Yellow
             YOUR INFORMATION
 =============================================
 
-Name           : AKHILESH BAJAJ
-Age            : 24 years (288 months)
+Name           : Junaid Shabir Chatabali
+Age            : 22 years
 City           : Pune
 Hobby          : Cooking
 ---------------------------------------------
