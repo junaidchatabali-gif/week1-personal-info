@@ -1,0 +1,11 @@
+Test Case 1
+Input:
+ Food: Pizza
+ Color: Blue
+Result: Program displays correctly formatted output
+
+Test Case 2
+Input:
+ Food: (empty) → Pasta
+ Color: (empty) → Green
+Result: Program asks again until valid input
